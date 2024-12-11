@@ -1,0 +1,1 @@
+This machine learning project predicts the genre that a random age female or boy will like, with a girl denoting 0 and a boy denoting 1.
